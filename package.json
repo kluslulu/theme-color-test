@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "algorithmjs": "^0.0.2",
+    "algorithmjs": "^0.0.4",
     "sugar": "^1.4.1",
     "get-pixels": "^1.1.2",
     "sync-runner": "^0.0.5"
